@@ -1,4 +1,4 @@
-# Achrion Interactive Java Game
+# Interactive Java Game
 
 This is a 2D game where the player can move around a world, interact with NPCs, and pick up objects. The game is built using Java and Swing for the graphical interface. 
 The player can interact with NPCs to trigger dialogue and perform various actions throughout the world. This projects main goal is to explore a more practical approach to some 
