@@ -4,9 +4,8 @@ This is a 2D game where the player can move around a world, interact with NPCs, 
 The player can interact with NPCs to trigger dialogue and perform various actions throughout the world. This projects main goal is to explore a more practical approach to some 
 OOP Theory. 
 
-<img width="768" height="576" alt="Screenshot 2026-06-27 at 11 13 05 PM" src="https://github.com/user-attachments/assets/6d9cbccd-fea9-4e79-a1a5-c62fa0017c28" />
 <img width="768" height="576" alt="Screenshot 2026-06-27 at 11 12 27 PM" src="https://github.com/user-attachments/assets/b809e8f5-e1f2-4e98-b1c7-9ab5d0be5713" />
-
+<img width="768" height="576" alt="Screenshot 2026-06-27 at 11 13 05 PM" src="https://github.com/user-attachments/assets/6d9cbccd-fea9-4e79-a1a5-c62fa0017c28" />
 
 ## Features
 - Player movement with keyboard controls.
